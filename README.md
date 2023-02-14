@@ -1,3 +1,3 @@
 # Online social network application
 
-![webpage](.image/webpage.png)
+![webpage](./image/webpage.png)
